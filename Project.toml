@@ -1,0 +1,8 @@
+name = "PolynomialRing"
+uuid = "c69e25b7-ced4-43d1-bebe-53af10824047"
+authors = ["Scurrra <iscurrra@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
