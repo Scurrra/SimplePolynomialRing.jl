@@ -1,7 +1,7 @@
 name = "SimplePolynomialRing"
 uuid = "c69e25b7-ced4-43d1-bebe-53af10824047"
 authors = ["Scurrra <iscurrra@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
