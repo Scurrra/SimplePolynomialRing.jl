@@ -1,4 +1,4 @@
-name = "PolynomialRing"
+name = "SimplePolynomialRing"
 uuid = "c69e25b7-ced4-43d1-bebe-53af10824047"
 authors = ["Scurrra <iscurrra@gmail.com>"]
 version = "0.1.0"

@@ -1,4 +1,4 @@
-module PolynomialRing
+module SimplePolynomialRing
 
 using SparseArrays
 
