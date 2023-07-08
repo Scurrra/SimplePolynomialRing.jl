@@ -2,7 +2,7 @@ module SimplePolynomialRing
 
 using SparseArrays
 
-import Primes: isprime, factor, primes
+import Primes: isprime, factor
 import Base: (+), (-), (*), (^), (÷), (%), (/)
 
 include("tools.jl")
@@ -421,6 +421,6 @@ Alias for Pℤ{2, :x}
 """
 Pℤ₂ = Pℤ{2}
 
-export Pℤ, Pℤ₂, degree, generate, primes, isprime, factor, irreducible
+export Pℤ, Pℤ₂, degree, generate, irreducible, primes, factor, isprime
 
 end # module PolynomialRing
